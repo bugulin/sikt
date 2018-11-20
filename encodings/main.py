@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-import importlib
 import importlib.util
 from sys import argv, stderr, modules
 
